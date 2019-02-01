@@ -18,7 +18,7 @@ public class SumNumber {
 		sum=a+b;
 		System.out.println("The sum of two number is: " +sum );
 			
-
+//Hi this is to check the git setup
 	}
 
 }
